@@ -45,7 +45,7 @@ Trata-se de uma aplicação semelhante ao Twitter feita exclusivamente para os u
 para testar as funcionalidades do backend instale o [Insomnia](https://insomnia.rest/download/), em seguida clique no botão abaixo para importar as configurações do workspace
 <div align="center">
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Gitwitter&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmaykonsousa%2Fgitwitter%2Fmaster%2FInsomnia_2020-04-20.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Sinergia&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmaykonsousa%2Fgitwitter%2Fmaster%2Finsomnia.json)
 </div>
 
 
